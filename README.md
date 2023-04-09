@@ -58,7 +58,9 @@ I will not be held accountable for any illegal activities.
 unobfuscated (Developer Version) = +0,75€
 
 # All In One (Artiste Version) 0,50€
-  
+![image](https://user-images.githubusercontent.com/124546838/230793620-944b7c71-fa68-46e4-840c-42dc642901cc.png)
+![image](https://user-images.githubusercontent.com/124546838/230793755-2b112863-3359-4156-89c1-36137df00c77.png)
+
 ## English : 
   
 > with All In One (Artist Version) you can have exactly what All In One (Free Version) already has but everything is in color
@@ -70,22 +72,43 @@ unobfuscated (Developer Version) = +0,75€
 # All In One (Developer Version) 0,75€
   
 ## English :
+
+> with All In One (Developer Version) you can have exactly what All In One (Free Version) already has but all the code is modifiable
   
 ## Français :
+  
+> avec All In One (Developer Version) vous pourrez avoir exactement ce qu'a déjà All In One (Free Version) mais tout le code est modifiable
   
 # All In One (Developer + Artiste Version) 1€
+![image](https://user-images.githubusercontent.com/124546838/230793617-12f3aea1-f6a3-4a64-b85a-64492ca99d82.png)
+![Screenshot_20230409_215557_CapCut](https://user-images.githubusercontent.com/124546838/230793875-9ae7f4f3-12c9-4205-803a-022a9abf608c.jpg)
+## English :
+  
+> with All In One (Developer + Artist Version) you can have exactly what All In One (Artist Version) 
+  
+  
+> and All In One (Developer Version) already have but for 0,25€ less
+  
+## Français :
+  
+> avec All In One (Developer + Artiste Version) vous pourrez avoir exactement ce qu'a déjà All In One (Artist Version) 
+
+  
+> et All In One (Developer Version) mais a 0,25€ de moins
+  
+# All In One (AIO Classic Version) 3€
   
 ## English :
   
 ## Français :
   
-# All In One (AIO (No RAT) Version) 3€
-  
+# All In One (AIO Pro Version) 5€
+   
 ## English :
   
 ## Français :
   
-# All In One (AIO (RAT) Version) X€
+# All In One (AIO Deluxe Version) 10€
   
 ## English :
   

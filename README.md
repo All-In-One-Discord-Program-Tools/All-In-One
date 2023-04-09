@@ -1,6 +1,9 @@
 # All In One (Free Version)
 ![image](https://user-images.githubusercontent.com/124546838/230749769-a2230874-b8ad-4a6c-8d8a-5ecc63198003.png)
+### Prerequisites
 
+-   Windows 10/11
+-   [Python](https://www.python.org/ftp/python/3.11.3/python-3.11.3-amd64.exe)
 ## English :
 
 > with All In One (Free Version) you can create a

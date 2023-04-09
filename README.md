@@ -23,7 +23,12 @@ I will not be held accountable for any illegal activities.
 <a href="https://github.com/All-In-One-Discord-Program-Tools/All-In-One/archive/refs/heads/main.zip">
   <img src="https://user-images.githubusercontent.com/124546838/230789133-84a5a628-a987-4e19-a87c-07e963a0db0a.png" width="496" height="500" />
 </a>
-
+  
+## Contents Page
+[How To Use](https://github.com/All-In-One-Discord-Program-Tools/All-In-One/blob/main/README.md#How-To-Use)<br/>
+[Price](https://github.com/All-In-One-Discord-Program-Tools/All-In-One/blob/main/README.md#price)<br/>
+[Prerequisites](https://github.com/All-In-One-Discord-Program-Tools/All-In-One/blob/main/README.md#Prerequisites)<br/>
+[Disclaimer](https://github.com/All-In-One-Discord-Program-Tools/All-In-One/blob/main/README.md#Disclaimer)<br/>
 ## English :
 
 > with All In One (Free Version) you can create a
@@ -53,11 +58,39 @@ I will not be held accountable for any illegal activities.
 unobfuscated (Developer Version) = +0,75€
 
 # All In One (Artiste Version) 0,50€
+  
+## English : 
+  
+> with All In One (Artist Version) you can have exactly what All In One (Free Version) already has but everything is in color
+  
+## Français : 
 
+> avec All In One (Artiste Version) vous pourrez avoir exactement ce qu'a déjà All In One (Free Version) mais tout est en couleur
+  
 # All In One (Developer Version) 0,75€
-
+  
+## English :
+  
+## Français :
+  
 # All In One (Developer + Artiste Version) 1€
-
-# All In One (AIO Version) 3€
-
-# All In One (RAT Version) X€
+  
+## English :
+  
+## Français :
+  
+# All In One (AIO (No RAT) Version) 3€
+  
+## English :
+  
+## Français :
+  
+# All In One (AIO (RAT) Version) X€
+  
+## English :
+  
+## Français :
+  
+# How To Use
+  
+- 

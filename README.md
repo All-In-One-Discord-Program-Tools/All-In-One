@@ -27,6 +27,7 @@ I will not be held accountable for any illegal activities.
 ## Contents Page
 [How To Use](https://github.com/All-In-One-Discord-Program-Tools/All-In-One/blob/main/README.md#How-To-Use)<br/>
 [Price](https://github.com/All-In-One-Discord-Program-Tools/All-In-One/blob/main/README.md#price)<br/>
+[Bug](https://github.com/All-In-One-Discord-Program-Tools/All-In-One/blob/main/README.md#Bug)<br/>
 [Prerequisites](https://github.com/All-In-One-Discord-Program-Tools/All-In-One/blob/main/README.md#Prerequisites)<br/>
 [Disclaimer](https://github.com/All-In-One-Discord-Program-Tools/All-In-One/blob/main/README.md#Disclaimer)<br/>
 ## English :
@@ -70,7 +71,9 @@ unobfuscated (Developer Version) = +0,75€
 > avec All In One (Artiste Version) vous pourrez avoir exactement ce qu'a déjà All In One (Free Version) mais tout est en couleur
   
 # All In One (Developer Version) 0,75€
-  
+ ![image](https://user-images.githubusercontent.com/124546838/230749769-a2230874-b8ad-4a6c-8d8a-5ecc63198003.png)
+ ![Screenshot_20230410_142443_CapCut](https://user-images.githubusercontent.com/124546838/230901376-f699f525-ea3b-4189-bc78-fb2bb94d61f8.jpg)
+
 ## English :
 
 > with All In One (Developer Version) you can have exactly what All In One (Free Version) already has but all the code is modifiable
@@ -115,5 +118,10 @@ unobfuscated (Developer Version) = +0,75€
 ## Français :
   
 # How To Use
+  
+- 
+
+  
+# Bug
   
 - 

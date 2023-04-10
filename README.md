@@ -28,6 +28,7 @@ I will not be held accountable for any illegal activities.
 [How To Use](https://github.com/All-In-One-Discord-Program-Tools/All-In-One/blob/main/README.md#How-To-Use)<br/>
 [Price](https://github.com/All-In-One-Discord-Program-Tools/All-In-One/blob/main/README.md#price)<br/>
 [Bug](https://github.com/All-In-One-Discord-Program-Tools/All-In-One/blob/main/README.md#Bug)<br/>
+[Comming Soon](https://github.com/All-In-One-Discord-Program-Tools/All-In-One/blob/main/README.md#Comming-Soon)<br/>
 [Prerequisites](https://github.com/All-In-One-Discord-Program-Tools/All-In-One/blob/main/README.md#Prerequisites)<br/>
 [Disclaimer](https://github.com/All-In-One-Discord-Program-Tools/All-In-One/blob/main/README.md#Disclaimer)<br/>
 ## English :
@@ -121,7 +122,10 @@ unobfuscated (Developer Version) = +0,75€
   
 - 
 
-  
 # Bug
   
-- 
+- actualy none
+  
+# Comming Soon
+
+- Ransomware

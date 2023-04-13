@@ -120,12 +120,34 @@ unobfuscated (Developer Version) = +0,75€
   
 # How To Use
   
-- 
+- [video Tutorial](https://github.com/All-In-One-Discord-Program-Tools/All-In-One/blob/main/README.md#Video)<br/>
+  
+## English :
+  
+- 1 : 
+  
+## Français :
+  
+  
+  
+  
+  
+  
+  ## Video
+ 
 
 # Bug
+
+<div align="left">
   
 - currently no bug is recancelled
   
+<div align="center">
+  
 # Comming Soon
 
+<div align="left">
+  
 - Ransomware
+- Crypto Miner
+  

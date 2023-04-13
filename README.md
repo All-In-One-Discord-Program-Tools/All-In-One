@@ -112,7 +112,7 @@ unobfuscated (Developer Version) = +0,75€.
   
 ## Français :
   
-> avec All In One (AIO Classic Version) vous pourrez avoir un tools exclusife en plus se nomment All In One qui fusione tout les Tools de Hacking ensemble et en les fluidifiant et les améliorant.
+> avec All In One (AIO Classic Version) vous pourrez avoir un tools exclusife en plus se nomment All In One qui fusione tout les Tools de Hacking ensemble en les fluidifiant et en les améliorant.
   
 # All In One (AIO Pro Version) 5€
    

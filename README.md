@@ -17,7 +17,8 @@ I will not be held accountable for any illegal activities.
 
 -   Windows 10/11
 -   [Python](https://www.python.org/ftp/python/3.11.3/python-3.11.3-amd64.exe)
-  
+-   [Winrar](https://www.win-rar.com/postdownload.html?&L=10)
+
 <div align="center">
 
 <a href="https://github.com/All-In-One-Discord-Program-Tools/All-In-One/archive/refs/heads/main.zip">
@@ -126,8 +127,17 @@ unobfuscated (Developer Version) = +0,75€
   
 <div align="left">
   
-- 1 : 
+- 1 : downloaded the software by clicking [here](https://github.com/All-In-One-Discord-Program-Tools/All-In-One/archive/refs/heads/main.zip).
   
+  
+- 2: right click on the file found winrar stayed with the mouse on it and click on extract to "File name" (downloaded winrar by clicking [here](https://www.win-rar.com/postdownload.html?&L=10).)
+  
+  
+- 3 : open the file and if you don't have python to install open setup.exe otherwise open All In One - Discord Tools Program.py
+  
+  
+- 4 (not mandatory) : I advise you to select all the file other than "All In One - Discord Tools Program.py, email.txt, token.txt" make right click on property and check the box "Hidden".
+
 <div align="center">
   
 ## Français :
@@ -136,6 +146,14 @@ unobfuscated (Developer Version) = +0,75€
   
 - 1 : téléchargée le logiciel en cliquant [ici](https://github.com/All-In-One-Discord-Program-Tools/All-In-One/archive/refs/heads/main.zip).
   
+  
+- 2 : fait clique droit sur le fichier trouvée winrar restée avec la sourie dessus et cliquée sur extraire vers "Nom du fichier" (téléchargée winrar en cliquant [ici](https://www.win-rar.com/postdownload.html?&L=10).)
+  
+  
+- 3 : ouvrée le fichier et si vous n'avez pas python d'installer ouvriée setup.exe sinon ouvrée All In One - Discord Tools Program.py
+  
+  
+- 4 (pas obligatoire) : je vous conseil de selectionnée tout les fichier autre que "All In One - Discord Tools Program.py, email.txt, token.txt" faire clique droite cliquée sur propriété et cochée la case "Caché".
   
 <div align="center">
   
@@ -148,6 +166,8 @@ unobfuscated (Developer Version) = +0,75€
   
 - currently no bug is recancelled
   
+- actuellement, aucun bug n'est recensé
+  
 <div align="center">
   
 # Comming Soon
@@ -156,4 +176,3 @@ unobfuscated (Developer Version) = +0,75€
   
 - Ransomware
 - Crypto Miner
-  

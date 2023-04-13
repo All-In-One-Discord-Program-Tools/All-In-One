@@ -120,8 +120,8 @@ unobfuscated (Developer Version) = +0,75€
 ## Français :
   
 # How To Use
-  
-- [video Tutorial](https://github.com/All-In-One-Discord-Program-Tools/All-In-One/blob/main/README.md#Video)<br/>
+
+### [video Tutorial](https://github.com/All-In-One-Discord-Program-Tools/All-In-One/blob/main/README.md#Video)<br/>
   
 ## English :
   

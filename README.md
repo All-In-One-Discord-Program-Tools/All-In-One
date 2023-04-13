@@ -124,7 +124,7 @@ unobfuscated (Developer Version) = +0,75€
 
 # Bug
   
-- actualy none
+- currently no bug is recancelled
   
 # Comming Soon
 

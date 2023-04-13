@@ -42,7 +42,7 @@ I will not be held accountable for any illegal activities.
 
 > the code is obfuscated so immodifiable (to have the modifiable code buy All In One (Developer Version) 0,75€) 
 \
-> also everything is in black and white (to have the code in color buy All In One (Artiste Version) 0,50€)
+> also everything is in black and white (to have the code in color buy All In One (Artiste Version) 0,50€.)
 
 ## Français : 
 
@@ -52,13 +52,13 @@ I will not be held accountable for any illegal activities.
 
 > (le self bot ne marche que avec discord.py V1.7.3 (pip install discord.py==1.7.3)
 
-> le code est obfusquée donc immodifiable (pour avoir le code modifiable achetée All In One (Developer Version) 0,75€) 
+> le code est obfusquée donc immodifiable (pour avoir le code modifiable achetée All In One (Developer Version) 0,75€)
 \
-> également tout est en noir et blanc (pour avoir le code en couleur achetée All In One (Artiste Version) 0,50€)
+> également tout est en noir et blanc (pour avoir le code en couleur achetée All In One (Artiste Version) 0,50€.)
 ## price
-> color (Artiste Version) = +0,50€
+> color (Artiste Version) = +0,50€.
 \
-unobfuscated (Developer Version) = +0,75€
+unobfuscated (Developer Version) = +0,75€.
 
 # All In One (Artiste Version) 0,50€
 ![image](https://user-images.githubusercontent.com/124546838/230793620-944b7c71-fa68-46e4-840c-42dc642901cc.png)
@@ -66,11 +66,11 @@ unobfuscated (Developer Version) = +0,75€
 
 ## English : 
   
-> with All In One (Artist Version) you can have exactly what All In One (Free Version) already has but everything is in color
+> with All In One (Artist Version) you can have exactly what All In One (Free Version) already has but everything is in color.
   
 ## Français : 
 
-> avec All In One (Artiste Version) vous pourrez avoir exactement ce qu'a déjà All In One (Free Version) mais tout est en couleur
+> avec All In One (Artiste Version) vous pourrez avoir exactement ce qu'a déjà All In One (Free Version) mais tout est en couleur.
   
 # All In One (Developer Version) 0,75€
  ![image](https://user-images.githubusercontent.com/124546838/230749769-a2230874-b8ad-4a6c-8d8a-5ecc63198003.png)
@@ -78,11 +78,11 @@ unobfuscated (Developer Version) = +0,75€
 
 ## English :
 
-> with All In One (Developer Version) you can have exactly what All In One (Free Version) already has but all the code is modifiable
+> with All In One (Developer Version) you can have exactly what All In One (Free Version) already has but all the code is modifiable.
   
 ## Français :
   
-> avec All In One (Developer Version) vous pourrez avoir exactement ce qu'a déjà All In One (Free Version) mais tout le code est modifiable
+> avec All In One (Developer Version) vous pourrez avoir exactement ce qu'a déjà All In One (Free Version) mais tout le code est modifiable.
   
 # All In One (Developer + Artiste Version) 1€
 ![image](https://user-images.githubusercontent.com/124546838/230793617-12f3aea1-f6a3-4a64-b85a-64492ca99d82.png)
@@ -92,32 +92,47 @@ unobfuscated (Developer Version) = +0,75€
 > with All In One (Developer + Artist Version) you can have exactly what All In One (Artist Version) 
   
   
-> and All In One (Developer Version) already have but for 0,25€ less
+> and All In One (Developer Version) already have but for 0,25€ less.
   
 ## Français :
   
 > avec All In One (Developer + Artiste Version) vous pourrez avoir exactement ce qu'a déjà All In One (Artist Version) 
 
   
-> et All In One (Developer Version) mais a 0,25€ de moins
+> et All In One (Developer Version) mais a 0,25€ de moins.
   
 # All In One (AIO Classic Version) 3€
-  
+  ![image](https://user-images.githubusercontent.com/124546838/231858298-63e6bfd9-c878-4f17-8671-53185f5f03f9.png)
+  ![image](https://user-images.githubusercontent.com/124546838/231858488-06d1b798-9090-40df-aeda-130f07e4bb47.png)
+
+
 ## English :
   
+> With All In One (AIO Classic Version) you will be able to have an exclusive tool called All In One that merges all the Hacking Tools together and making them more fluid and better.
+  
 ## Français :
+  
+> avec All In One (AIO Classic Version) vous pourrez avoir un tools exclusife en plus se nomment All In One qui fusione tout les Tools de Hacking ensemble et en les fluidifiant et les améliorant.
   
 # All In One (AIO Pro Version) 5€
    
 ## English :
   
+
+  
 ## Français :
+  
+
   
 # All In One (AIO Deluxe Version) 10€
   
 ## English :
   
+
+  
 ## Français :
+  
+
   
 # How To Use
 

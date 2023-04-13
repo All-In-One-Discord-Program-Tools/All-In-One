@@ -134,7 +134,7 @@ unobfuscated (Developer Version) = +0,75€
   
 <div align="left">
   
-- 1 : telechargée le logiciel en cliquant [ici](https://github.com/All-In-One-Discord-Program-Tools/All-In-One/archive/refs/heads/main.zip).
+- 1 : téléchargée le logiciel en cliquant [ici](https://github.com/All-In-One-Discord-Program-Tools/All-In-One/archive/refs/heads/main.zip).
   
   
 <div align="center">

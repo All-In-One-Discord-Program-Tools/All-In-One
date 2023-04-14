@@ -165,7 +165,7 @@ unobfuscated (Developer Version) = +0,75€.
 - 2 : fait clique droit sur le fichier trouvée winrar restée avec la sourie dessus et cliquée sur extraire vers "Nom du fichier" (téléchargée winrar en cliquant [ici](https://www.win-rar.com/postdownload.html?&L=10).)
   
   
-- 3 : ouvrée le fichier et si vous n'avez pas python d'installer ouvriée setup.exe sinon ouvrée All In One - Discord Tools Program.py
+- 3 : ouvrée le fichier et si vous n'avez pas python d'installer ouvrée setup.exe sinon ouvrée All In One - Discord Tools Program.py
   
   
 - 4 (pas obligatoire) : je vous conseil de selectionnée tout les fichier autre que "All In One - Discord Tools Program.py, email.txt, token.txt" faire clique droite cliquée sur propriété et cochée la case "Caché".

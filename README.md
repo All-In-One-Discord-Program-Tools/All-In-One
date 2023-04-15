@@ -56,9 +56,9 @@ I will not be held accountable for any illegal activities.
 \
 > également tout est en noir et blanc (pour avoir le code en couleur achetée All In One (Artiste Version) 0,50€.)
 ## price
-> color (Artiste Version) = +0,50€.
+> nocolor (nocolor Version) = -0,50€.
 \
-unobfuscated (Developer Version) = +0,75€.
+obfuscated (obfuscated Version) = -0,75€.
 
 # All In One (Artiste Version) 0,50€
 ![image](https://user-images.githubusercontent.com/124546838/230793620-944b7c71-fa68-46e4-840c-42dc642901cc.png)

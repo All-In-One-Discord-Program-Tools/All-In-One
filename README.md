@@ -242,7 +242,6 @@ https://user-images.githubusercontent.com/124546838/231916631-bc91e9ac-8aaa-4982
 - Crypto Miner
 
 <div align="right">
- 
 <a href="https://discord.gg/Q5fSzMbBMd">
   <img src="https://user-images.githubusercontent.com/124546838/232249814-28a8cd9e-848e-43bd-99a3-0a27418553b5.png" width="90"height="100" />
 </a>

@@ -1,8 +1,10 @@
 <div align="center">
 
 # All In One (Free Version)
-  
-![image](https://user-images.githubusercontent.com/124546838/230749769-a2230874-b8ad-4a6c-8d8a-5ecc63198003.png)
+
+<a href="https://discord.gg/Q5fSzMbBMd">
+  <img src="https://user-images.githubusercontent.com/124546838/230749769-a2230874-b8ad-4a6c-8d8a-5ecc63198003.png" width="" height="" />
+</a>
 
 ### Disclaimer
 
@@ -61,8 +63,14 @@ I will not be held accountable for any illegal activities.
 obfuscated (obfuscated Version) = -0,75€.
 
 # All In One (Artiste Version) 0,50€
-![image](https://user-images.githubusercontent.com/124546838/230793620-944b7c71-fa68-46e4-840c-42dc642901cc.png)
-![image](https://user-images.githubusercontent.com/124546838/230793755-2b112863-3359-4156-89c1-36137df00c77.png)
+  
+<a href="https://discord.gg/Q5fSzMbBMd">
+  <img src="https://user-images.githubusercontent.com/124546838/230793620-944b7c71-fa68-46e4-840c-42dc642901cc.png" width="" height="" />
+</a>
+<a href="https://discord.gg/Q5fSzMbBMd">
+  <img src="https://user-images.githubusercontent.com/124546838/230793755-2b112863-3359-4156-89c1-36137df00c77.png" width="" height="" />
+</a>
+
 
 ## English : 
   
@@ -73,9 +81,14 @@ obfuscated (obfuscated Version) = -0,75€.
 > avec All In One (Artiste Version) vous pourrez avoir exactement ce qu'a déjà All In One (Free Version) mais tout est en couleur.
   
 # All In One (Developer Version) 0,75€
- ![image](https://user-images.githubusercontent.com/124546838/230749769-a2230874-b8ad-4a6c-8d8a-5ecc63198003.png)
- ![Screenshot_20230410_142443_CapCut](https://user-images.githubusercontent.com/124546838/230901376-f699f525-ea3b-4189-bc78-fb2bb94d61f8.jpg)
 
+<a href="https://discord.gg/Q5fSzMbBMd">
+  <img src="https://user-images.githubusercontent.com/124546838/230749769-a2230874-b8ad-4a6c-8d8a-5ecc63198003.png" width="" height="" />
+</a>
+<a href="https://discord.gg/Q5fSzMbBMd">
+  <img src="https://user-images.githubusercontent.com/124546838/230901376-f699f525-ea3b-4189-bc78-fb2bb94d61f8.jpg" width="" height="" />
+</a>
+  
 ## English :
 
 > with All In One (Developer Version) you can have exactly what All In One (Free Version) already has but all the code is modifiable.
@@ -85,8 +98,14 @@ obfuscated (obfuscated Version) = -0,75€.
 > avec All In One (Developer Version) vous pourrez avoir exactement ce qu'a déjà All In One (Free Version) mais tout le code est modifiable.
   
 # All In One (Developer + Artiste Version) 1€
-![image](https://user-images.githubusercontent.com/124546838/230793617-12f3aea1-f6a3-4a64-b85a-64492ca99d82.png)
-![Screenshot_20230409_215557_CapCut](https://user-images.githubusercontent.com/124546838/230793875-9ae7f4f3-12c9-4205-803a-022a9abf608c.jpg)
+  
+<a href="https://discord.gg/Q5fSzMbBMd">
+  <img src="https://user-images.githubusercontent.com/124546838/230793617-12f3aea1-f6a3-4a64-b85a-64492ca99d82.png" width="" height="" />
+</a>
+<a href="https://discord.gg/Q5fSzMbBMd">
+  <img src="https://user-images.githubusercontent.com/124546838/230793875-9ae7f4f3-12c9-4205-803a-022a9abf608c.jpg" width="" height="" />
+</a>
+
 ## English :
   
 > with All In One (Developer + Artist Version) you can have exactly what All In One (Artist Version) 
@@ -102,8 +121,13 @@ obfuscated (obfuscated Version) = -0,75€.
 > et All In One (Developer Version) mais a 0,25€ de moins.
   
 # All In One (AIO Classic Version) 3€
-  ![image](https://user-images.githubusercontent.com/124546838/231858298-63e6bfd9-c878-4f17-8671-53185f5f03f9.png)
-  ![image](https://user-images.githubusercontent.com/124546838/231858488-06d1b798-9090-40df-aeda-130f07e4bb47.png)
+  
+<a href="https://discord.gg/Q5fSzMbBMd">
+  <img src="https://user-images.githubusercontent.com/124546838/231858298-63e6bfd9-c878-4f17-8671-53185f5f03f9.png" width="" height="" />
+</a>
+<a href="https://discord.gg/Q5fSzMbBMd">
+  <img src="https://user-images.githubusercontent.com/124546838/231858488-06d1b798-9090-40df-aeda-130f07e4bb47.png" width="" height="" />
+</a>
 
 
 ## English :
@@ -115,10 +139,20 @@ obfuscated (obfuscated Version) = -0,75€.
 > avec All In One (AIO Classic Version) vous pourrez avoir un tools exclusife en plus se nomment All In One qui fusione tout les Tools de Hacking ensemble en les fluidifiant et en les améliorant.
   
 # All In One (AIO Pro Version) 5€
-![image](https://user-images.githubusercontent.com/124546838/232086211-09f26ac7-e536-4c97-adc7-8a736f1d9a78.png)
-![image](https://user-images.githubusercontent.com/124546838/232086984-c45b118b-7e47-4d94-8c74-17bec37639a0.png)
-![image](https://user-images.githubusercontent.com/124546838/232088186-9a456c6a-fe73-483d-b6d6-bcd6ef4d1a7a.png)
-![image](https://user-images.githubusercontent.com/124546838/232088421-a26252b8-800c-4637-a1e2-e14703a4dd9e.png)
+  
+<a href="https://discord.gg/Q5fSzMbBMd">
+  <img src="https://user-images.githubusercontent.com/124546838/232086211-09f26ac7-e536-4c97-adc7-8a736f1d9a78.png" width="" height="" />
+</a>
+<a href="https://discord.gg/Q5fSzMbBMd">
+  <img src="https://user-images.githubusercontent.com/124546838/232086984-c45b118b-7e47-4d94-8c74-17bec37639a0.png" width="" height="" />
+</a>
+<a href="https://discord.gg/Q5fSzMbBMd">
+  <img src="https://user-images.githubusercontent.com/124546838/232088186-9a456c6a-fe73-483d-b6d6-bcd6ef4d1a7a.png" width="" height="" />
+</a>
+<a href="https://discord.gg/Q5fSzMbBMd">
+  <img src="https://user-images.githubusercontent.com/124546838/232088421-a26252b8-800c-4637-a1e2-e14703a4dd9e.png" width="" height="" />
+</a>
+
 
    
 ## English :
@@ -131,11 +165,13 @@ obfuscated (obfuscated Version) = -0,75€.
   
 # All In One (AIO Deluxe Version) 10€
   
-![image](https://user-images.githubusercontent.com/124546838/232091830-67083809-6049-49fc-ad11-a9f2e957cbe5.png)
-![Screenshot_20230414_174319_CapCut](https://user-images.githubusercontent.com/124546838/232091920-0555952a-85bb-4f9f-9dbf-91c5c721f45d.jpg)
+<a href="https://discord.gg/Q5fSzMbBMd">
+  <img src="https://user-images.githubusercontent.com/124546838/232091830-67083809-6049-49fc-ad11-a9f2e957cbe5.png" width="" height="" />
+</a>
+<a href="https://discord.gg/Q5fSzMbBMd">
+  <img src="https://user-images.githubusercontent.com/124546838/232091920-0555952a-85bb-4f9f-9dbf-91c5c721f45d.jpg" width="" height="" />
+</a>
 
-
-  
 ## English :
   
 > with All In One (AIO Deluxe Version) you can have an exclusive software for mass hacking called FREEDL.py
@@ -204,3 +240,8 @@ https://user-images.githubusercontent.com/124546838/231916631-bc91e9ac-8aaa-4982
   
 - Ransomware
 - Crypto Miner
+
+<div align="right"
+<a href="https://discord.gg/Q5fSzMbBMd">
+  <img src="https://user-images.githubusercontent.com/124546838/232249814-28a8cd9e-848e-43bd-99a3-0a27418553b5.png" width="90"height="100" />
+</a>
